@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corridas>
+    <piloto>
+        <id>	1	</id>
+        <nome> Charles Leclerc 	</nome>
+        <vitórias>	5	</vitórias>
+         <status>	 vice-campeão 	</status>
+    </piloto>
+    <piloto>
